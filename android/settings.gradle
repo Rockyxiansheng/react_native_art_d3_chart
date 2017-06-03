@@ -1,0 +1,3 @@
+rootProject.name = 'altiore_chart'
+
+include ':app'
